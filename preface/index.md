@@ -1,4 +1,4 @@
-## 前言
+# 前言
 
 ![](../images/preface.png)
 
