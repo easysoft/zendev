@@ -1,6 +1,6 @@
 ## 前言
 
-![](../images/qianyan.png)
+![](../images/preface.png)
 
 各位程序员朋友们， 欢迎大家来到阿道的世界。
 
