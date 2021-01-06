@@ -2,6 +2,7 @@
 
 程序员的成长就像我们玩游戏打怪升级一样，想要开更高级别的副本，执行更高级的任务，就需要不断地历练，给自己增加技能点，提升等级。那么，快来点亮你的技能点吧。
 
-  - [1.1 编程语言](./skill/programming-language.md)
-  - [1.2 英语](./skill/english.md)
-  - [1.3 Linux](./skill/linux.md)
+  - [1.1 编程语言](./programming-language.md)
+  - [1.2 英语](./english.md)
+  - [1.3 Linux](./linux.md)
+

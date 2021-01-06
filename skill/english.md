@@ -13,7 +13,7 @@
 扫码测一测~
 ```
 
-<img src="G:\zendevelopper\images\skill-english-002.png" style="zoom:50%;" />
+<img src="../images/skill-english-002.png" style="zoom:50%;" />
 
 ### 1.2.2 坚持
 
