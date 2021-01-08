@@ -29,3 +29,6 @@ github地址为：`https://github.com/easysoft/zendevelopper`
   - [5.5 领导能力](./management/leadership.md)
   - [5.6 决策能力](./management/decision-making.md)
   - [5.7 时间管理](./management/time-management.md)
+
+- [结语](./epilogue/index.md)
+- [致谢](./acknowledgement/index.md)
